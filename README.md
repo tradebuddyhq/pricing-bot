@@ -1,4 +1,4 @@
-# TradeBuddy Pricing Intelligence Bot
+# Pricing Intelligence Bot
 
 A self-hostable pricing engine for marketplace listings.
 
@@ -90,5 +90,3 @@ pricing-bot/
 - Set env vars on your host
 - Persist `./data/` volume for SQLite
 
-## License
-MIT (recommended for reuse). If you prefer another license, tell me.
