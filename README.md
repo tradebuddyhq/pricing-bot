@@ -1,6 +1,6 @@
 # Pricing Intelligence Bot
 
-> Very much a WIP cuz I'm ahh at Python
+> Very much a WIP cuz i'm ahh at Python
 
 A self-hostable pricing engine for marketplace listings.
 
